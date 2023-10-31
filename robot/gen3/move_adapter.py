@@ -1,4 +1,4 @@
-from Gen3.robot.gen3.api_gen3.move_robot_api import MoveRobotApi
+from robot.gen3.api_gen3.move_robot_api import MoveRobotApi
 
 
 class MoveAdapter:

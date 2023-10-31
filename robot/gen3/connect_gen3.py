@@ -1,5 +1,5 @@
-from Gen3.robot.connection import Connection
-from Gen3.robot.gen3.api_gen3.device_connection import DeviceConnection
+from robot.connection import Connection
+from robot.gen3.api_gen3.device_connection import DeviceConnection
 
 
 class ConnectGen3(Connection):

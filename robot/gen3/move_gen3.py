@@ -1,6 +1,6 @@
-from Gen3.robot.gen3.move_adapter import MoveAdapter
-from Gen3.robot.gen3.move_to_key import MoveToKey
-from Gen3.robot.movement import Movement
+from robot.gen3.move_adapter import MoveAdapter
+from robot.gen3.move_to_key import MoveToKey
+from robot.movement import Movement
 
 from kortex_api.autogen.client_stubs.BaseClientRpc import BaseClient
 
